@@ -6,3 +6,10 @@ logs/
 README.md
 EXPORT.json
 build.sh
+.venv/
+.env
+.env.*
+__pycache__/
+.experiment.lock
+.modal-build/
+.modal-build-explorer/

@@ -1,2 +1,9 @@
 logs/
 .venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+.experiment.lock
+.modal-build/
+.modal-build-explorer/
